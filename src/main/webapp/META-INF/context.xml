@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+
+    <Resource name="bean/Something" auth="Container"
+              type="lk.ijse.test.tomcatdbcp.Something"
+              factory="org.apache.naming.factory.BeanFactory"
+              />
+
+</Context>
